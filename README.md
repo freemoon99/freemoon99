@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gyuhyeon. you guys call me Gyu
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning html/css & python & ROS & AI
+- 🌱 I’m currently learning HTML/CSS & Python & ROS & AI
 - 📫 How to reach me soloist132@gmail.com
 
 <!---
