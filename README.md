@@ -4,7 +4,7 @@
 
 ## 👋 Profile
 <div align="right">
-<a href="https://great-myth-492.notion.site/c29092c981d848009b254431209b3c20"><b>⏩ 이력서</b></a>
+<a href="https://great-myth-492.notion.site/c29092c981d848009b254431209b3c20"><b>📃 이력서</b></a>
 </div>
 
 
