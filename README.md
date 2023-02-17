@@ -49,7 +49,7 @@
 |22.08.18 ~ 22.10.6|Re:act|고령화 사회 노인층을 대상으로 한 재사회화를 도와주기 위한 플랫폼(강의, 동호회, 멘토링, 커뮤니티, 컨설팅 기능 제공)|<a href="https://github.com/React-Likelion/react">Re:act</a>|프론트엔드 : 멘토링 페이지, 채팅(+ firebase 백엔드)기능 구현<br/>멋쟁이사자처럼 중앙 해커톤 제출|
 |22.11.16 ~ |MMAI웹사이트|MMAI 웹사이트 구현|<a href="https://github.com/b2sts3xy/MMAI">MMAI</a>|프론트 엔드 담당|
 |22.12.21 ~ 22.12.23|Url Shortner|개인프로젝트|<a href="https://github.com/freemoon99/URL-Shortner">URL단축기</a>|프론트(React), 백엔드(Node.js), 서버(express.js), DB(MySQL)|
-|23.01.03 ~ |화상, 음성 채팅|디스코드를 기반으로 다양한 기능 구현이 목표(WebRTC, Soket, etc...)|예정|커뮤니티 서버, 기타 서버 보조|
+|23.01.03 ~ |화상, 음성 채팅|디스코드를 기반으로 다양한 기능 구현이 목표(WebRTC, Soket, etc...)|<a href="https://github.com/sgdevcamp2022/ottogi">Ottogicord</a>|커뮤니티 서버, 기타 서버 보조|
 
 ## ⚡ Connect
 
