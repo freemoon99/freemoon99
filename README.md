@@ -39,7 +39,7 @@
 
 <h3> 💻 Project 💻 </h3>
 <div align="right">
-<a href="https://great-myth-492.notion.site/342af4de03eb4e95b65aca8f7565dd0d"><b>⏩ 프로젝트 관련 노션</b></a>
+<a href="https://great-myth-492.notion.site/c29092c981d848009b254431209b3c20"><b>⏩ 프로젝트 관련 노션</b></a>
 </div>
 
 |기간|프로젝트명|프로젝트 소개|깃허브 url|비고|
