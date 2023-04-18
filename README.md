@@ -10,7 +10,7 @@
 
 - 🏫 Kumoh National Institute of Technology/electronics
 
-- 🌱 I’m currently learning **react, JS, node.js, MySQL etc.**
+- 🌱 I’m currently learning **java, spring boot, jsp, react, JS, node.js, MySQL etc.**
 
 - 📝 I regularly write articles on [https://velog.io/@freemoon99](https://velog.io/@freemoon99)
 
