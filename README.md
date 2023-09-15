@@ -4,7 +4,7 @@
 
 ## 👋 Profile
 <div align="right">
-<a href="https://kyuhyun.notion.site/c29092c981d848009b254431209b3c20"><b>📃 이력서</b></a>
+<a href="https://kyuhyun.notion.site/7f40a182707f409989f4ee9b77f1f25f?pvs=4"><b>📃 이력서</b></a>
 </div>
 
 
@@ -49,12 +49,12 @@
 |활동기간|활동명|기술스택|비고|
 |---|---|---|---|
 |22.03.22 ~ 22.11.24|금오공대 멋쟁이사자처럼 대학동아리|HTML, CSS, JavaScript, React, Python|10기 아기사자|
-|22.12.27 ~ |금오공대 멋쟁이사자처럼 대학동아리|HTML, CSS, JavaScript, React, Python|11기 운영진(프론트엔드)|
+|22.12.27 ~ 23.06.20|금오공대 멋쟁이사자처럼 대학동아리|HTML, CSS, JavaScript, React, Python|11기 운영진(프론트엔드)|
 |22.11.22 ~ 23.2.28|스마일게이트 Winter Dev Camp|JavaScript, Node.js, React, MySQL|백엔드|
 
 <h3> 💻 Project 💻 </h3>
 <div align="right">
-<a href="https://kyuhyun.notion.site/c29092c981d848009b254431209b3c20"><b>⏩ 프로젝트 관련 노션</b></a>
+<a href="https://kyuhyun.notion.site/7f40a182707f409989f4ee9b77f1f25f?pvs=4"><b>⏩ 프로젝트 관련 노션</b></a>
 </div>
 
 |기간|프로젝트명|프로젝트 소개|깃허브 url|비고|
@@ -64,7 +64,9 @@
 |22.08.18 ~ 22.10.6|Re:act|고령화 사회 노인층을 대상으로 한 재사회화를 도와주기 위한 플랫폼(강의, 동호회, 멘토링, 커뮤니티, 컨설팅 기능 제공)|<a href="https://github.com/React-Likelion/react">Re:act</a>|프론트엔드 : 멘토링 페이지, 채팅(+ firebase 백엔드)기능 구현<br/>멋쟁이사자처럼 중앙 해커톤 제출|
 |22.11.16 ~ |MMAI웹사이트|MMAI 웹사이트 구현|<a href="https://github.com/b2sts3xy/MMAI">MMAI</a>|프론트 엔드 담당|
 |22.12.21 ~ 22.12.23|Url Shortner|개인프로젝트|<a href="https://github.com/freemoon99/URL-Shortner">URL단축기</a>|프론트(React), 백엔드(Node.js), 서버(express.js), DB(MySQL)|
-|23.01.03 ~ |화상, 음성 채팅|디스코드를 기반으로 다양한 기능 구현이 목표(WebRTC, Soket, etc...)|<a href="https://github.com/sgdevcamp2022/ottogi">Ottogicord</a>|커뮤니티 서버, 기타 서버 보조|
+|23.01.03 ~ 23.02.28|화상, 음성 채팅|디스코드를 기반으로 다양한 기능 구현이 목표(WebRTC, Soket, etc...)|<a href="https://github.com/sgdevcamp2022/ottogi">Ottogicord</a>|커뮤니티 서버, 상태관리 서버, 기타 서버 보조|
+|23.05.01 ~ 23.11.30|한이음 프로젝트|재난 정보를 기반으로 서비스를 제공함|<a href="https://github.com/kit-cmd/backend#%EB%B0%95%EA%B7%9C%ED%98%84">disaster-project</a>|유저서버, 재난정보 수집서버, 알림서버|
+
 
 ## ⚡ Connect
 
