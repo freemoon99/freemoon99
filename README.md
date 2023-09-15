@@ -51,6 +51,7 @@
 |22.03.22 ~ 22.11.24|금오공대 멋쟁이사자처럼 대학동아리|HTML, CSS, JavaScript, React, Python|10기 아기사자|
 |22.12.27 ~ 23.06.20|금오공대 멋쟁이사자처럼 대학동아리|HTML, CSS, JavaScript, React, Python|11기 운영진(프론트엔드)|
 |22.11.22 ~ 23.2.28|스마일게이트 Winter Dev Camp|JavaScript, Node.js, React, MySQL|백엔드|
+|22.11.22 ~ 23.2.28|엔에스랩 인턴|flutter, solidity, dart|웹&앱 개발, 블록체인 개발(스마트컨트렉트)|
 
 <h3> 💻 Project 💻 </h3>
 <div align="right">
