@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GyuHyeon%20Park&fontSize=90)
 <h1 align="center">Hi 👋, I'm GyuHyeon</h1>
-<h3 align="center">Front-end developer interested in growth</h3>
+<h3 align="center">Back-end developer interested in growth</h3>
 
 ## 👋 Profile
 <div align="right">
